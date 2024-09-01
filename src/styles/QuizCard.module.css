@@ -1,0 +1,22 @@
+.quizCard {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    text-align: left;
+  }
+  
+  .quizCard h3 {
+    margin-top: 0;
+  }
+  
+  .quizCard p {
+    margin: 5px 0;
+  }
+  
+  .quizCard a {
+    text-decoration: none;
+    color: blue;
+  }
+  
